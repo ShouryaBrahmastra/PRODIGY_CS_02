@@ -1,7 +1,7 @@
 # Pixel manipulation for Image Encryption 
 > Prodigy InfoTech Internship (Task_02)
 
-* Create a python program that can manipulate each pixel of the image by performing a XOR operation with integer value given by the user.
+* Create a python program that can manipulate each pixel of the image by performing a XOR operation with integer value given by the user. 
 
 ```
 
